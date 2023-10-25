@@ -1,1 +1,1 @@
-FROM docker pull ultralytics/ultralytics
+FROM ultralytics/ultralytics:latest
